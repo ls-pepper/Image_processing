@@ -1,0 +1,1 @@
+Project for image processing. It implements point, matrix filters and operations of mathematical morphology.

@@ -1,0 +1,9 @@
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\bin\Debug\Practice1.exe.config
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\bin\Debug\Practice1.exe
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\bin\Debug\Practice1.pdb
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.Form1.resources
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.csproj.GenerateResource.Cache
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.exe
+c:\users\влад\documents\visual studio 2015\Projects\Practice1\Practice1\obj\Debug\Practice1.pdb
